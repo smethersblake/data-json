@@ -3834,41 +3834,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3069b"
-          ],
-          "BrickOwl": [
-            "487300"
-          ],
-          "Brickset": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ],
-          "LDraw": [
-            "3069b"
-          ],
-          "LEGO": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -3888,25 +3853,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/63864/tile-1-x-3/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4558169.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "63864"
-          ],
-          "BrickOwl": [
-            "276668"
-          ],
-          "Brickset": [
-            "37294",
-            "63864"
-          ],
-          "LDraw": [
-            "63864"
-          ],
-          "LEGO": [
-            "37294",
-            "63864"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -3926,34 +3872,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2412b"
-          ],
-          "BrickOwl": [
-            "363948"
-          ],
-          "Brickset": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ],
-          "LDraw": [
-            "2412b",
-            "30244"
-          ],
-          "LEGO": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -3961,8 +3879,6 @@
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
         "is_trans": false
-
-        
       }
     },
     {
@@ -3975,17 +3891,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/2412a/tile-special-1-x-2-grille-without-bottom-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/0/2412a.png",
-        "external_ids": {
-          "BrickLink": [
-            "2412a"
-          ],
-          "BrickOwl": [
-            "806674"
-          ],
-          "LDraw": [
-            "2412a"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4005,101 +3910,13 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2412b"
-          ],
-          "BrickOwl": [
-            "363948"
-          ],
-          "Brickset": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ],
-          "LDraw": [
-            "2412b",
-            "30244"
-          ],
-          "LEGO": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 80,
         "name": "Metallic Silver",
         "rgb": "A5A9B4",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              67
-            ],
-            "ext_descrs": [
-              [
-                "Metallic Silver"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              126
-            ],
-            "ext_descrs": [
-              [
-                "Metallic Silver"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              298,
-              1002,
-              336
-            ],
-            "ext_descrs": [
-              [
-                "Cool silver"
-              ],
-              [
-                "C.SILVER, DR. L"
-              ],
-              [
-                "SILVER INK"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "metallicsilver"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              80
-            ],
-            "ext_descrs": [
-              [
-                "Metallic_Silver"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -4112,31 +3929,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/99563/tile-special-1-x-2-with-sloped-walls-aka-money-gold-bar-ingot/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6134378.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "99563"
-          ],
-          "BrickOwl": [
-            "934455"
-          ],
-          "Brickset": [
-            "13954",
-            "67117",
-            "95349",
-            "96910",
-            "99563"
-          ],
-          "LDraw": [
-            "96910"
-          ],
-          "LEGO": [
-            "13954",
-            "67117",
-            "95349",
-            "96910",
-            "99563"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4156,32 +3948,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2431"
-          ],
-          "BrickOwl": [
-            "853045"
-          ],
-          "Brickset": [
-            "2431",
-            "35371",
-            "75703",
-            "91143"
-          ],
-          "LDraw": [
-            "2431"
-          ],
-          "LEGO": [
-            "2431",
-            "35371",
-            "75703",
-            "91143"
-          ],
-          "Peeron": [
-            "2431b"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4201,25 +3967,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/4162/tile-1-x-8-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/416226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "4162"
-          ],
-          "BrickOwl": [
-            "221729"
-          ],
-          "Brickset": [
-            "40929",
-            "4162"
-          ],
-          "LDraw": [
-            "4162"
-          ],
-          "LEGO": [
-            "40929",
-            "4162"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4239,23 +3986,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/26603/tile-2-x-3/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6171894.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "26603"
-          ],
-          "BrickOwl": [
-            "372299"
-          ],
-          "Brickset": [
-            "26603"
-          ],
-          "LDraw": [
-            "26603"
-          ],
-          "LEGO": [
-            "26603"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4275,25 +4005,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/87079/tile-2-x-4-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4560183.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "87079"
-          ],
-          "BrickOwl": [
-            "26386"
-          ],
-          "Brickset": [
-            "38879",
-            "87079"
-          ],
-          "LDraw": [
-            "87079"
-          ],
-          "LEGO": [
-            "38879",
-            "87079"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4313,23 +4024,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/2454b/brick-1-x-2-x-5-with-hollow-studs-and-bottom-stud-holder-with-symmetric-ridges/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/245401.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2454"
-          ],
-          "BrickOwl": [
-            "176464"
-          ],
-          "Brickset": [
-            "2454"
-          ],
-          "LDraw": [
-            "2454b"
-          ],
-          "LEGO": [
-            "2454"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4349,24 +4043,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/2454a/brick-1-x-2-x-5-with-blocked-open-studs-and-bottom-stud-holder-with-asymmetric-ridges/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/2454a.png",
-        "external_ids": {
-          "BrickLink": [
-            "2454"
-          ],
-          "BrickOwl": [
-            "176464"
-          ],
-          "Brickset": [
-            "2454"
-          ],
-          "LDraw": [
-            "2454",
-            "2454a"
-          ],
-          "LEGO": [
-            "2454"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4386,23 +4062,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3010/brick-1-x-4/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/301001.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3010"
-          ],
-          "BrickOwl": [
-            "752369"
-          ],
-          "Brickset": [
-            "3010"
-          ],
-          "LDraw": [
-            "3010"
-          ],
-          "LEGO": [
-            "3010"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4422,23 +4081,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/30145/brick-2-x-2-x-3/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4109791.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "30145"
-          ],
-          "BrickOwl": [
-            "819432"
-          ],
-          "Brickset": [
-            "30145"
-          ],
-          "LDraw": [
-            "30145"
-          ],
-          "LEGO": [
-            "30145"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4458,27 +4100,6 @@
         "part_cat_id": 23,
         "part_url": "https://rebrickable.com/parts/87552/panel-1-x-2-x-2-side-supports-hollow-studs/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6000740.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "87552"
-          ],
-          "BrickOwl": [
-            "915460"
-          ],
-          "Brickset": [
-            "35378",
-            "87552",
-            "94638"
-          ],
-          "LDraw": [
-            "87552"
-          ],
-          "LEGO": [
-            "35378",
-            "87552",
-            "94638"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4498,23 +4119,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3245c/brick-1-x-2-x-2-with-inside-stud-holder/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4113261.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3245c"
-          ],
-          "BrickOwl": [
-            "978353"
-          ],
-          "Brickset": [
-            "3245"
-          ],
-          "LDraw": [
-            "3245c"
-          ],
-          "LEGO": [
-            "3245"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4534,27 +4138,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/61409/slope-18-2-x-1-x-23-with-4-slots/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4540386.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "61409"
-          ],
-          "BrickOwl": [
-            "912280"
-          ],
-          "Brickset": [
-            "18863",
-            "61409",
-            "67119"
-          ],
-          "LDraw": [
-            "61409"
-          ],
-          "LEGO": [
-            "18863",
-            "61409",
-            "67119"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4593,23 +4176,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/15672/slope-45-2-x-1-with-23-cutout-new-version/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6069000.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "92946"
-          ],
-          "BrickOwl": [
-            "694461"
-          ],
-          "Brickset": [
-            "15672"
-          ],
-          "LDraw": [
-            "15672"
-          ],
-          "LEGO": [
-            "15672"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4629,23 +4195,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/60481/slope-65-2-x-1-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4515374.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "60481"
-          ],
-          "BrickOwl": [
-            "91632"
-          ],
-          "Brickset": [
-            "60481"
-          ],
-          "LDraw": [
-            "60481"
-          ],
-          "LEGO": [
-            "60481"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4665,25 +4214,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/3747b/slope-inverted-33-3-x-2-connections-between-studs/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/72/3747b.png",
-        "external_ids": {
-          "BrickLink": [
-            "3747b"
-          ],
-          "BrickOwl": [
-            "941188"
-          ],
-          "Brickset": [
-            "2752",
-            "3747"
-          ],
-          "LDraw": [
-            "3747b"
-          ],
-          "LEGO": [
-            "2752",
-            "3747"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4703,23 +4233,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/2449/slope-inverted-75-2-x-1-x-3/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4226442.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2449"
-          ],
-          "BrickOwl": [
-            "620383"
-          ],
-          "Brickset": [
-            "2449"
-          ],
-          "LDraw": [
-            "2449"
-          ],
-          "LEGO": [
-            "2449"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4739,23 +4252,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/4460b/slope-75-2-x-1-x-3-with-hollow-stud/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4221745.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "4460b"
-          ],
-          "BrickOwl": [
-            "359919"
-          ],
-          "Brickset": [
-            "4460"
-          ],
-          "LDraw": [
-            "4460b"
-          ],
-          "LEGO": [
-            "4460"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4794,23 +4290,6 @@
         "part_cat_id": 37,
         "part_url": "https://rebrickable.com/parts/93273/slope-curved-4-x-1-double-with-no-studs/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4613153.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "93273"
-          ],
-          "BrickOwl": [
-            "264231"
-          ],
-          "Brickset": [
-            "93273"
-          ],
-          "LDraw": [
-            "93273"
-          ],
-          "LEGO": [
-            "93273"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4830,25 +4309,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/61252/plate-special-1-x-1-with-clip-horizontal-thick-open-o-clip/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4517925.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "61252"
-          ],
-          "BrickOwl": [
-            "380889"
-          ],
-          "Brickset": [
-            "52738",
-            "61252"
-          ],
-          "LDraw": [
-            "61252"
-          ],
-          "LEGO": [
-            "52738",
-            "61252"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4887,23 +4347,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/32028/plate-special-1-x-2-with-door-rail/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211568.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32028"
-          ],
-          "BrickOwl": [
-            "148319"
-          ],
-          "Brickset": [
-            "32028"
-          ],
-          "LDraw": [
-            "32028"
-          ],
-          "LEGO": [
-            "32028"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4923,23 +4366,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/18671/bracket-3-x-2-x-1-13-with-pin-bottom/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6099909.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "18671"
-          ],
-          "BrickOwl": [
-            "691274"
-          ],
-          "Brickset": [
-            "18671"
-          ],
-          "LDraw": [
-            "18671"
-          ],
-          "LEGO": [
-            "18671"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4959,23 +4385,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/2444/plate-special-2-x-2-with-1-pin-hole-split-underside-ribs/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/244426.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2444"
-          ],
-          "BrickOwl": [
-            "311712"
-          ],
-          "Brickset": [
-            "2444"
-          ],
-          "LDraw": [
-            "2444"
-          ],
-          "LEGO": [
-            "2444"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -4995,23 +4404,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/2540/plate-special-1-x-2-side-handle-free-ends/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4140588.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2540"
-          ],
-          "BrickOwl": [
-            "916041"
-          ],
-          "Brickset": [
-            "2540"
-          ],
-          "LDraw": [
-            "2540"
-          ],
-          "LEGO": [
-            "2540"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5031,23 +4423,6 @@
         "part_cat_id": 18,
         "part_url": "https://rebrickable.com/parts/6134/hinge-brick-2-x-2-top-plate-thin/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4124096.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "6134"
-          ],
-          "BrickOwl": [
-            "29780"
-          ],
-          "Brickset": [
-            "6134"
-          ],
-          "LDraw": [
-            "6134"
-          ],
-          "LEGO": [
-            "6134"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5067,25 +4442,6 @@
         "part_cat_id": 18,
         "part_url": "https://rebrickable.com/parts/30383/hinge-plate-1-x-2-locking-with-1-finger-on-top/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4210726.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "30383"
-          ],
-          "BrickOwl": [
-            "428381"
-          ],
-          "Brickset": [
-            "30383",
-            "53922"
-          ],
-          "LDraw": [
-            "30383"
-          ],
-          "LEGO": [
-            "30383",
-            "53922"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5105,25 +4461,6 @@
         "part_cat_id": 18,
         "part_url": "https://rebrickable.com/parts/60471/hinge-plate-1-x-2-locking-with-2-fingers-on-side-9-teeth/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4515341.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "60471"
-          ],
-          "BrickOwl": [
-            "912792"
-          ],
-          "Brickset": [
-            "50340",
-            "60471"
-          ],
-          "LDraw": [
-            "60471"
-          ],
-          "LEGO": [
-            "50340",
-            "60471"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5143,25 +4480,6 @@
         "part_cat_id": 18,
         "part_url": "https://rebrickable.com/parts/92582/hinge-plate-2-x-2-locking-with-1-finger-on-top/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4666449.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "92582"
-          ],
-          "BrickOwl": [
-            "913887"
-          ],
-          "Brickset": [
-            "53968",
-            "92582"
-          ],
-          "LDraw": [
-            "92582"
-          ],
-          "LEGO": [
-            "53968",
-            "92582"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5181,25 +4499,6 @@
         "part_cat_id": 18,
         "part_url": "https://rebrickable.com/parts/44568/hinge-plate-1-x-4-locking-dual-1-finger/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211840.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "44568"
-          ],
-          "BrickOwl": [
-            "638657"
-          ],
-          "Brickset": [
-            "44568",
-            "51483"
-          ],
-          "LDraw": [
-            "44568"
-          ],
-          "LEGO": [
-            "44568",
-            "51483"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5219,25 +4518,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/63868/plate-special-1-x-2-with-clip-horizontal-on-end/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4535739.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "63868"
-          ],
-          "BrickOwl": [
-            "537281"
-          ],
-          "Brickset": [
-            "42923",
-            "63868"
-          ],
-          "LDraw": [
-            "63868"
-          ],
-          "LEGO": [
-            "42923",
-            "63868"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5276,28 +4556,6 @@
         "part_cat_id": 23,
         "part_url": "https://rebrickable.com/parts/4865a/panel-1-x-2-x-1-square-corners/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/486501.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "4865"
-          ],
-          "BrickOwl": [
-            "746621"
-          ],
-          "Brickset": [
-            "30010",
-            "4865"
-          ],
-          "LDraw": [
-            "4865a"
-          ],
-          "LEGO": [
-            "30010",
-            "4865"
-          ],
-          "Peeron": [
-            "4865"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5317,29 +4575,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/3039/slope-45-2-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303921.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3039"
-          ],
-          "BrickOwl": [
-            "822931"
-          ],
-          "Brickset": [
-            "3039",
-            "35277",
-            "6227",
-            "63341"
-          ],
-          "LDraw": [
-            "3039"
-          ],
-          "LEGO": [
-            "3039",
-            "35277",
-            "6227",
-            "63341"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5359,25 +4594,6 @@
         "part_cat_id": 37,
         "part_url": "https://rebrickable.com/parts/47457/brick-curved-2-x-2-x-23-two-studs-and-curved-slope-end/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4218696.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "47457"
-          ],
-          "BrickOwl": [
-            "699532"
-          ],
-          "Brickset": [
-            "47457",
-            "78882"
-          ],
-          "LDraw": [
-            "47457"
-          ],
-          "LEGO": [
-            "47457",
-            "78882"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5397,23 +4613,6 @@
         "part_cat_id": 23,
         "part_url": "https://rebrickable.com/parts/6231/panel-1-x-1-x-1-corner/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/623101.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "6231"
-          ],
-          "BrickOwl": [
-            "631562"
-          ],
-          "Brickset": [
-            "6231"
-          ],
-          "LDraw": [
-            "6231"
-          ],
-          "LEGO": [
-            "6231"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5433,23 +4632,6 @@
         "part_cat_id": 8,
         "part_url": "https://rebrickable.com/parts/6541/technic-brick-1-x-1-with-hole/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/654126.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "6541"
-          ],
-          "BrickOwl": [
-            "668419"
-          ],
-          "Brickset": [
-            "6541"
-          ],
-          "LDraw": [
-            "6541"
-          ],
-          "LEGO": [
-            "6541"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5469,23 +4651,6 @@
         "part_cat_id": 8,
         "part_url": "https://rebrickable.com/parts/3703/technic-brick-1-x-16-15-holes/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/370326.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3703"
-          ],
-          "BrickOwl": [
-            "737589"
-          ],
-          "Brickset": [
-            "3703"
-          ],
-          "LDraw": [
-            "3703"
-          ],
-          "LEGO": [
-            "3703"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5505,23 +4670,6 @@
         "part_cat_id": 8,
         "part_url": "https://rebrickable.com/parts/3702/technic-brick-1-x-8-7-holes/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/370226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3702"
-          ],
-          "BrickOwl": [
-            "781392"
-          ],
-          "Brickset": [
-            "3702"
-          ],
-          "LDraw": [
-            "3702"
-          ],
-          "LEGO": [
-            "3702"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5541,23 +4689,6 @@
         "part_cat_id": 8,
         "part_url": "https://rebrickable.com/parts/3894/technic-brick-1-x-6-5-holes/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/389426.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3894"
-          ],
-          "BrickOwl": [
-            "642711"
-          ],
-          "Brickset": [
-            "3894"
-          ],
-          "LDraw": [
-            "3894"
-          ],
-          "LEGO": [
-            "3894"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5577,28 +4708,6 @@
         "part_cat_id": 54,
         "part_url": "https://rebrickable.com/parts/32123b/technic-bush-12-smooth-with-axle-hole-semi-reduced/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6271165.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "4265c"
-          ],
-          "BrickOwl": [
-            "470580"
-          ],
-          "Brickset": [
-            "32123",
-            "42136"
-          ],
-          "LDraw": [
-            "32123b"
-          ],
-          "LEGO": [
-            "32123",
-            "42136"
-          ],
-          "Peeron": [
-            "4265c"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5618,29 +4727,6 @@
         "part_cat_id": 54,
         "part_url": "https://rebrickable.com/parts/3713/technic-bush/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4125313.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3713"
-          ],
-          "BrickOwl": [
-            "88261"
-          ],
-          "Brickset": [
-            "42798",
-            "6590"
-          ],
-          "LDraw": [
-            "3713",
-            "6590"
-          ],
-          "LEGO": [
-            "42798",
-            "6590"
-          ],
-          "Peeron": [
-            "6590"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5660,23 +4746,6 @@
         "part_cat_id": 12,
         "part_url": "https://rebrickable.com/parts/6553/technic-axle-15-with-perpendicular-axle-connector-technic-pole-reverser-handle/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4107765.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "6553"
-          ],
-          "BrickOwl": [
-            "492645"
-          ],
-          "Brickset": [
-            "6553"
-          ],
-          "LDraw": [
-            "6553"
-          ],
-          "LEGO": [
-            "6553"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5696,23 +4765,6 @@
         "part_cat_id": 12,
         "part_url": "https://rebrickable.com/parts/41678/technic-axle-and-pin-connector-perpendicular-double-split/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4162857.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "41678"
-          ],
-          "BrickOwl": [
-            "652130"
-          ],
-          "Brickset": [
-            "41678"
-          ],
-          "LDraw": [
-            "41678"
-          ],
-          "LEGO": [
-            "41678"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5732,23 +4784,6 @@
         "part_cat_id": 12,
         "part_url": "https://rebrickable.com/parts/87082/technic-pin-connector-hub-with-2-pins-with-friction-ridges-lengthwise-big-squared-pin-holes/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4560175.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "87082"
-          ],
-          "BrickOwl": [
-            "523081"
-          ],
-          "Brickset": [
-            "87082"
-          ],
-          "LDraw": [
-            "87082"
-          ],
-          "LEGO": [
-            "87082"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5768,28 +4803,6 @@
         "part_cat_id": 53,
         "part_url": "https://rebrickable.com/parts/61184/technic-pin-12-with-2l-bar-extension/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4520320.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "61184"
-          ],
-          "BrickOwl": [
-            "833209"
-          ],
-          "Brickset": [
-            "42456",
-            "61184"
-          ],
-          "LDraw": [
-            "61184"
-          ],
-          "LEGO": [
-            "42456",
-            "61184"
-          ],
-          "Peeron": [
-            "x1855"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5809,23 +4822,6 @@
         "part_cat_id": 53,
         "part_url": "https://rebrickable.com/parts/65304/technic-pin-long-with-friction-ridges-lengthwise-and-stop-bush-2-lateral-holes-small-pin-hole/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6347790.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32054"
-          ],
-          "BrickOwl": [
-            "337379"
-          ],
-          "Brickset": [
-            "65304"
-          ],
-          "LDraw": [
-            "65304"
-          ],
-          "LEGO": [
-            "65304"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5845,30 +4841,6 @@
         "part_cat_id": 51,
         "part_url": "https://rebrickable.com/parts/60483/technic-beam-1-x-2-thick-with-pin-hole-and-axle-hole/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4515185.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "60483"
-          ],
-          "BrickOwl": [
-            "251668"
-          ],
-          "Brickset": [
-            "40147",
-            "60483",
-            "74695"
-          ],
-          "LDraw": [
-            "60483"
-          ],
-          "LEGO": [
-            "40147",
-            "60483",
-            "74695"
-          ],
-          "Peeron": [
-            "x1835"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5888,25 +4860,6 @@
         "part_cat_id": 51,
         "part_url": "https://rebrickable.com/parts/11478/technic-beam-1-x-5-thin-with-axle-holes-on-ends/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6030286.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "11478"
-          ],
-          "BrickOwl": [
-            "904078"
-          ],
-          "Brickset": [
-            "11478",
-            "44864"
-          ],
-          "LDraw": [
-            "11478"
-          ],
-          "LEGO": [
-            "11478",
-            "44864"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5926,25 +4879,6 @@
         "part_cat_id": 51,
         "part_url": "https://rebrickable.com/parts/32316/technic-beam-1-x-5-thick/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4142135.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32316"
-          ],
-          "BrickOwl": [
-            "786387"
-          ],
-          "Brickset": [
-            "32316",
-            "41616"
-          ],
-          "LDraw": [
-            "32316"
-          ],
-          "LEGO": [
-            "32316",
-            "41616"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -5964,25 +4898,6 @@
         "part_cat_id": 51,
         "part_url": "https://rebrickable.com/parts/32140/technic-beam-2-x-4-l-shape-thick/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4120017.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32140"
-          ],
-          "BrickOwl": [
-            "603062"
-          ],
-          "Brickset": [
-            "32140",
-            "42137"
-          ],
-          "LDraw": [
-            "32140"
-          ],
-          "LEGO": [
-            "32140",
-            "42137"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -6002,25 +4917,6 @@
         "part_cat_id": 51,
         "part_url": "https://rebrickable.com/parts/32249/technic-beam-3-x-3-l-shape-with-quarter-ellipse-thin/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4140328.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32249"
-          ],
-          "BrickOwl": [
-            "997572"
-          ],
-          "Brickset": [
-            "32249",
-            "65125"
-          ],
-          "LDraw": [
-            "32249"
-          ],
-          "LEGO": [
-            "32249",
-            "65125"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -6040,23 +4936,6 @@
         "part_cat_id": 46,
         "part_url": "https://rebrickable.com/parts/32073/technic-axle-5/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211639.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32073"
-          ],
-          "BrickOwl": [
-            "775804"
-          ],
-          "Brickset": [
-            "32073"
-          ],
-          "LDraw": [
-            "32073"
-          ],
-          "LEGO": [
-            "32073"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -6076,23 +4955,6 @@
         "part_cat_id": 46,
         "part_url": "https://rebrickable.com/parts/4519/technic-axle-3/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211815.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "4519"
-          ],
-          "BrickOwl": [
-            "151465"
-          ],
-          "Brickset": [
-            "4519"
-          ],
-          "LDraw": [
-            "4519"
-          ],
-          "LEGO": [
-            "4519"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -6112,23 +4974,6 @@
         "part_cat_id": 29,
         "part_url": "https://rebrickable.com/parts/3641/tyre-15-x-6-offset-tread-small/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/364126.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3641"
-          ],
-          "BrickOwl": [
-            "872603"
-          ],
-          "Brickset": [
-            "3641"
-          ],
-          "LDraw": [
-            "3641"
-          ],
-          "LEGO": [
-            "3641"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -6148,23 +4993,6 @@
         "part_cat_id": 29,
         "part_url": "https://rebrickable.com/parts/30028/tyre-14-x-9-smooth-small-wide-slick/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/3002826.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "30028"
-          ],
-          "BrickOwl": [
-            "746985"
-          ],
-          "Brickset": [
-            "30028"
-          ],
-          "LDraw": [
-            "30028"
-          ],
-          "LEGO": [
-            "30028"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -9095,23 +7923,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3010/brick-1-x-4/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/301001.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3010"
-          ],
-          "BrickOwl": [
-            "752369"
-          ],
-          "Brickset": [
-            "3010"
-          ],
-          "LDraw": [
-            "3010"
-          ],
-          "LEGO": [
-            "3010"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -9345,29 +8156,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/3039/slope-45-2-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303921.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3039"
-          ],
-          "BrickOwl": [
-            "822931"
-          ],
-          "Brickset": [
-            "3039",
-            "35277",
-            "6227",
-            "63341"
-          ],
-          "LDraw": [
-            "3039"
-          ],
-          "LEGO": [
-            "3039",
-            "35277",
-            "6227",
-            "63341"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -9673,41 +8461,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3069b"
-          ],
-          "BrickOwl": [
-            "487300"
-          ],
-          "Brickset": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ],
-          "LDraw": [
-            "3069b"
-          ],
-          "LEGO": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -9780,34 +8533,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2412b"
-          ],
-          "BrickOwl": [
-            "363948"
-          ],
-          "Brickset": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ],
-          "LDraw": [
-            "2412b",
-            "30244"
-          ],
-          "LEGO": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -11768,24 +10493,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/2454a/brick-1-x-2-x-5-with-blocked-open-studs-and-bottom-stud-holder-with-asymmetric-ridges/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/ldraw/15/2454a.png",
-        "external_ids": {
-          "BrickLink": [
-            "2454"
-          ],
-          "BrickOwl": [
-            "176464"
-          ],
-          "Brickset": [
-            "2454"
-          ],
-          "LDraw": [
-            "2454",
-            "2454a"
-          ],
-          "LEGO": [
-            "2454"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -11805,23 +10512,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/2454b/brick-1-x-2-x-5-with-hollow-studs-and-bottom-stud-holder-with-symmetric-ridges/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/245401.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2454"
-          ],
-          "BrickOwl": [
-            "176464"
-          ],
-          "Brickset": [
-            "2454"
-          ],
-          "LDraw": [
-            "2454b"
-          ],
-          "LEGO": [
-            "2454"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -11880,23 +10570,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3010/brick-1-x-4/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/301001.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3010"
-          ],
-          "BrickOwl": [
-            "752369"
-          ],
-          "Brickset": [
-            "3010"
-          ],
-          "LDraw": [
-            "3010"
-          ],
-          "LEGO": [
-            "3010"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -12679,32 +11352,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2431"
-          ],
-          "BrickOwl": [
-            "853045"
-          ],
-          "Brickset": [
-            "2431",
-            "35371",
-            "75703",
-            "91143"
-          ],
-          "LDraw": [
-            "2431"
-          ],
-          "LEGO": [
-            "2431",
-            "35371",
-            "75703",
-            "91143"
-          ],
-          "Peeron": [
-            "2431b"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -12724,41 +11371,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3069b"
-          ],
-          "BrickOwl": [
-            "487300"
-          ],
-          "Brickset": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ],
-          "LDraw": [
-            "3069b"
-          ],
-          "LEGO": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -12820,25 +11432,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/87079/tile-2-x-4-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4560183.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "87079"
-          ],
-          "BrickOwl": [
-            "26386"
-          ],
-          "Brickset": [
-            "38879",
-            "87079"
-          ],
-          "LDraw": [
-            "87079"
-          ],
-          "LEGO": [
-            "38879",
-            "87079"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -12858,34 +11451,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2412b"
-          ],
-          "BrickOwl": [
-            "363948"
-          ],
-          "Brickset": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ],
-          "LDraw": [
-            "2412b",
-            "30244"
-          ],
-          "LEGO": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -12905,34 +11470,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2412b"
-          ],
-          "BrickOwl": [
-            "363948"
-          ],
-          "Brickset": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ],
-          "LDraw": [
-            "2412b",
-            "30244"
-          ],
-          "LEGO": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -13235,27 +11772,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/61409/slope-18-2-x-1-x-23-with-4-slots/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4540386.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "61409"
-          ],
-          "BrickOwl": [
-            "912280"
-          ],
-          "Brickset": [
-            "18863",
-            "61409",
-            "67119"
-          ],
-          "LDraw": [
-            "61409"
-          ],
-          "LEGO": [
-            "18863",
-            "61409",
-            "67119"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -13275,29 +11791,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/3039/slope-45-2-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303921.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3039"
-          ],
-          "BrickOwl": [
-            "822931"
-          ],
-          "Brickset": [
-            "3039",
-            "35277",
-            "6227",
-            "63341"
-          ],
-          "LDraw": [
-            "3039"
-          ],
-          "LEGO": [
-            "3039",
-            "35277",
-            "6227",
-            "63341"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -13472,23 +11965,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/60481/slope-65-2-x-1-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4515374.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "60481"
-          ],
-          "BrickOwl": [
-            "91632"
-          ],
-          "Brickset": [
-            "60481"
-          ],
-          "LDraw": [
-            "60481"
-          ],
-          "LEGO": [
-            "60481"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -14433,23 +12909,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3245c/brick-1-x-2-x-2-with-inside-stud-holder/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4113261.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3245c"
-          ],
-          "BrickOwl": [
-            "978353"
-          ],
-          "Brickset": [
-            "3245"
-          ],
-          "LDraw": [
-            "3245c"
-          ],
-          "LEGO": [
-            "3245"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -15561,25 +14020,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/4162/tile-1-x-8-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/416226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "4162"
-          ],
-          "BrickOwl": [
-            "221729"
-          ],
-          "Brickset": [
-            "40929",
-            "4162"
-          ],
-          "LDraw": [
-            "4162"
-          ],
-          "LEGO": [
-            "40929",
-            "4162"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -15652,28 +14092,6 @@
         "part_cat_id": 23,
         "part_url": "https://rebrickable.com/parts/4865a/panel-1-x-2-x-1-square-corners/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/486501.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "4865"
-          ],
-          "BrickOwl": [
-            "746621"
-          ],
-          "Brickset": [
-            "30010",
-            "4865"
-          ],
-          "LDraw": [
-            "4865a"
-          ],
-          "LEGO": [
-            "30010",
-            "4865"
-          ],
-          "Peeron": [
-            "4865"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -18955,25 +17373,6 @@
         "part_cat_id": 51,
         "part_url": "https://rebrickable.com/parts/32316/technic-beam-1-x-5-thick/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4142135.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32316"
-          ],
-          "BrickOwl": [
-            "786387"
-          ],
-          "Brickset": [
-            "32316",
-            "41616"
-          ],
-          "LDraw": [
-            "32316"
-          ],
-          "LEGO": [
-            "32316",
-            "41616"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -19610,29 +18009,6 @@
         "part_cat_id": 54,
         "part_url": "https://rebrickable.com/parts/3713/technic-bush/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4125313.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3713"
-          ],
-          "BrickOwl": [
-            "88261"
-          ],
-          "Brickset": [
-            "42798",
-            "6590"
-          ],
-          "LDraw": [
-            "3713",
-            "6590"
-          ],
-          "LEGO": [
-            "42798",
-            "6590"
-          ],
-          "Peeron": [
-            "6590"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -23803,34 +22179,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2412b"
-          ],
-          "BrickOwl": [
-            "363948"
-          ],
-          "Brickset": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ],
-          "LDraw": [
-            "2412b",
-            "30244"
-          ],
-          "LEGO": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -24492,25 +22840,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/61252/plate-special-1-x-1-with-clip-horizontal-thick-open-o-clip/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4517925.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "61252"
-          ],
-          "BrickOwl": [
-            "380889"
-          ],
-          "Brickset": [
-            "52738",
-            "61252"
-          ],
-          "LDraw": [
-            "61252"
-          ],
-          "LEGO": [
-            "52738",
-            "61252"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -25284,23 +23613,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3010/brick-1-x-4/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/301001.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3010"
-          ],
-          "BrickOwl": [
-            "752369"
-          ],
-          "Brickset": [
-            "3010"
-          ],
-          "LDraw": [
-            "3010"
-          ],
-          "LEGO": [
-            "3010"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -27372,41 +25684,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3069b"
-          ],
-          "BrickOwl": [
-            "487300"
-          ],
-          "Brickset": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ],
-          "LDraw": [
-            "3069b"
-          ],
-          "LEGO": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -27426,41 +25703,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3069b"
-          ],
-          "BrickOwl": [
-            "487300"
-          ],
-          "Brickset": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ],
-          "LDraw": [
-            "3069b"
-          ],
-          "LEGO": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -27837,23 +26079,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3010/brick-1-x-4/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/301001.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3010"
-          ],
-          "BrickOwl": [
-            "752369"
-          ],
-          "Brickset": [
-            "3010"
-          ],
-          "LDraw": [
-            "3010"
-          ],
-          "LEGO": [
-            "3010"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -28222,34 +26447,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2412b"
-          ],
-          "BrickOwl": [
-            "363948"
-          ],
-          "Brickset": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ],
-          "LDraw": [
-            "2412b",
-            "30244"
-          ],
-          "LEGO": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -28396,41 +26593,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3069b"
-          ],
-          "BrickOwl": [
-            "487300"
-          ],
-          "Brickset": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ],
-          "LDraw": [
-            "3069b"
-          ],
-          "LEGO": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -29087,23 +27249,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/2454b/brick-1-x-2-x-5-with-hollow-studs-and-bottom-stud-holder-with-symmetric-ridges/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/245401.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2454"
-          ],
-          "BrickOwl": [
-            "176464"
-          ],
-          "Brickset": [
-            "2454"
-          ],
-          "LDraw": [
-            "2454b"
-          ],
-          "LEGO": [
-            "2454"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -29353,29 +27498,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/3039/slope-45-2-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/303921.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3039"
-          ],
-          "BrickOwl": [
-            "822931"
-          ],
-          "Brickset": [
-            "3039",
-            "35277",
-            "6227",
-            "63341"
-          ],
-          "LDraw": [
-            "3039"
-          ],
-          "LEGO": [
-            "3039",
-            "35277",
-            "6227",
-            "63341"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -29414,23 +27536,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/60481/slope-65-2-x-1-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4515374.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "60481"
-          ],
-          "BrickOwl": [
-            "91632"
-          ],
-          "Brickset": [
-            "60481"
-          ],
-          "LDraw": [
-            "60481"
-          ],
-          "LEGO": [
-            "60481"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -29599,27 +27704,6 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/61409/slope-18-2-x-1-x-23-with-4-slots/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4540386.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "61409"
-          ],
-          "BrickOwl": [
-            "912280"
-          ],
-          "Brickset": [
-            "18863",
-            "61409",
-            "67119"
-          ],
-          "LDraw": [
-            "61409"
-          ],
-          "LEGO": [
-            "18863",
-            "61409",
-            "67119"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -29675,23 +27759,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/32028/plate-special-1-x-2-with-door-rail/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211568.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32028"
-          ],
-          "BrickOwl": [
-            "148319"
-          ],
-          "Brickset": [
-            "32028"
-          ],
-          "LDraw": [
-            "32028"
-          ],
-          "LEGO": [
-            "32028"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -29822,23 +27889,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/2540/plate-special-1-x-2-side-handle-free-ends/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4140588.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2540"
-          ],
-          "BrickOwl": [
-            "916041"
-          ],
-          "Brickset": [
-            "2540"
-          ],
-          "LDraw": [
-            "2540"
-          ],
-          "LEGO": [
-            "2540"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -30302,25 +28352,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/61252/plate-special-1-x-1-with-clip-horizontal-thick-open-o-clip/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4517925.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "61252"
-          ],
-          "BrickOwl": [
-            "380889"
-          ],
-          "Brickset": [
-            "52738",
-            "61252"
-          ],
-          "LDraw": [
-            "61252"
-          ],
-          "LEGO": [
-            "52738",
-            "61252"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -30943,41 +28974,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/3069b/tile-1-x-2-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/306901.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3069b"
-          ],
-          "BrickOwl": [
-            "487300"
-          ],
-          "Brickset": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ],
-          "LDraw": [
-            "3069b"
-          ],
-          "LEGO": [
-            "15598",
-            "30070",
-            "3069",
-            "30695",
-            "35386",
-            "37293",
-            "45880",
-            "54285",
-            "59489",
-            "63286"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -31016,23 +29012,6 @@
         "part_cat_id": 53,
         "part_url": "https://rebrickable.com/parts/65304/technic-pin-long-with-friction-ridges-lengthwise-and-stop-bush-2-lateral-holes-small-pin-hole/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6347790.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32054"
-          ],
-          "BrickOwl": [
-            "337379"
-          ],
-          "Brickset": [
-            "65304"
-          ],
-          "LDraw": [
-            "65304"
-          ],
-          "LEGO": [
-            "65304"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -31052,23 +29031,6 @@
         "part_cat_id": 8,
         "part_url": "https://rebrickable.com/parts/6541/technic-brick-1-x-1-with-hole/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/654126.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "6541"
-          ],
-          "BrickOwl": [
-            "668419"
-          ],
-          "Brickset": [
-            "6541"
-          ],
-          "LDraw": [
-            "6541"
-          ],
-          "LEGO": [
-            "6541"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -32090,25 +30052,6 @@
         "part_cat_id": 51,
         "part_url": "https://rebrickable.com/parts/32140/technic-beam-2-x-4-l-shape-thick/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4120017.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "32140"
-          ],
-          "BrickOwl": [
-            "603062"
-          ],
-          "Brickset": [
-            "32140",
-            "42137"
-          ],
-          "LDraw": [
-            "32140"
-          ],
-          "LEGO": [
-            "32140",
-            "42137"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -32465,23 +30408,6 @@
         "part_cat_id": 46,
         "part_url": "https://rebrickable.com/parts/4519/technic-axle-3/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4211815.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "4519"
-          ],
-          "BrickOwl": [
-            "151465"
-          ],
-          "Brickset": [
-            "4519"
-          ],
-          "LDraw": [
-            "4519"
-          ],
-          "LEGO": [
-            "4519"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -32573,23 +30499,6 @@
         "part_cat_id": 37,
         "part_url": "https://rebrickable.com/parts/93273/slope-curved-4-x-1-double-with-no-studs/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4613153.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "93273"
-          ],
-          "BrickOwl": [
-            "264231"
-          ],
-          "Brickset": [
-            "93273"
-          ],
-          "LDraw": [
-            "93273"
-          ],
-          "LEGO": [
-            "93273"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -32903,23 +30812,6 @@
         "part_cat_id": 18,
         "part_url": "https://rebrickable.com/parts/6134/hinge-brick-2-x-2-top-plate-thin/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4124096.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "6134"
-          ],
-          "BrickOwl": [
-            "29780"
-          ],
-          "Brickset": [
-            "6134"
-          ],
-          "LDraw": [
-            "6134"
-          ],
-          "LEGO": [
-            "6134"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -33443,32 +31335,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/2431/tile-1-x-4-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/243126.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2431"
-          ],
-          "BrickOwl": [
-            "853045"
-          ],
-          "Brickset": [
-            "2431",
-            "35371",
-            "75703",
-            "91143"
-          ],
-          "LDraw": [
-            "2431"
-          ],
-          "LEGO": [
-            "2431",
-            "35371",
-            "75703",
-            "91143"
-          ],
-          "Peeron": [
-            "2431b"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -33528,25 +31394,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/63864/tile-1-x-3/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4558169.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "63864"
-          ],
-          "BrickOwl": [
-            "276668"
-          ],
-          "Brickset": [
-            "37294",
-            "63864"
-          ],
-          "LDraw": [
-            "63864"
-          ],
-          "LEGO": [
-            "37294",
-            "63864"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -33566,25 +31413,6 @@
         "part_cat_id": 19,
         "part_url": "https://rebrickable.com/parts/87079/tile-2-x-4-with-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4560183.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "87079"
-          ],
-          "BrickOwl": [
-            "26386"
-          ],
-          "Brickset": [
-            "38879",
-            "87079"
-          ],
-          "LDraw": [
-            "87079"
-          ],
-          "LEGO": [
-            "38879",
-            "87079"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -34263,25 +32091,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/61252/plate-special-1-x-1-with-clip-horizontal-thick-open-o-clip/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4517925.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "61252"
-          ],
-          "BrickOwl": [
-            "380889"
-          ],
-          "Brickset": [
-            "52738",
-            "61252"
-          ],
-          "LDraw": [
-            "61252"
-          ],
-          "LEGO": [
-            "52738",
-            "61252"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -34447,31 +32256,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/99563/tile-special-1-x-2-with-sloped-walls-aka-money-gold-bar-ingot/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6134378.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "99563"
-          ],
-          "BrickOwl": [
-            "934455"
-          ],
-          "Brickset": [
-            "13954",
-            "67117",
-            "95349",
-            "96910",
-            "99563"
-          ],
-          "LDraw": [
-            "96910"
-          ],
-          "LEGO": [
-            "13954",
-            "67117",
-            "95349",
-            "96910",
-            "99563"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -35060,34 +32844,6 @@
         "part_cat_id": 15,
         "part_url": "https://rebrickable.com/parts/2412b/tile-special-1-x-2-grille-with-bottom-groove/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/241226.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2412b"
-          ],
-          "BrickOwl": [
-            "363948"
-          ],
-          "Brickset": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ],
-          "LDraw": [
-            "2412b",
-            "30244"
-          ],
-          "LEGO": [
-            "15561",
-            "2412",
-            "30244",
-            "35248",
-            "51815",
-            "71957"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -35371,25 +33127,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/63868/plate-special-1-x-2-with-clip-horizontal-on-end/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4535739.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "63868"
-          ],
-          "BrickOwl": [
-            "537281"
-          ],
-          "Brickset": [
-            "42923",
-            "63868"
-          ],
-          "LDraw": [
-            "63868"
-          ],
-          "LEGO": [
-            "42923",
-            "63868"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -35448,23 +33185,6 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/2540/plate-special-1-x-2-side-handle-free-ends/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4140588.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "2540"
-          ],
-          "BrickOwl": [
-            "916041"
-          ],
-          "Brickset": [
-            "2540"
-          ],
-          "LDraw": [
-            "2540"
-          ],
-          "LEGO": [
-            "2540"
-          ]
-        },
         "print_of": null
       },
       "color": {
