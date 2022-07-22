@@ -57,9 +57,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -72,7 +70,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/2456/brick-2-x-6/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/245601.jpg",
-
         "print_of": null
       },
       "color": {
@@ -91,7 +88,7 @@
         "name": "Brick 2 x 8",
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3007/brick-2-x-8/",
-        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300701.jpg",,
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300701.jpg",
         "print_of": null
       },
       "color": {
@@ -111,38 +108,13 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3001"
-          ],
-          "BrickOwl": [
-            "771344"
-          ],
-          "Brickset": [
-            "15589",
-            "3001",
-            "54534",
-            "72841"
-          ],
-          "LDraw": [
-            "3001"
-          ],
-          "LEGO": [
-            "15589",
-            "3001",
-            "54534",
-            "72841"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -155,89 +127,13 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3001"
-          ],
-          "BrickOwl": [
-            "771344"
-          ],
-          "Brickset": [
-            "15589",
-            "3001",
-            "54534",
-            "72841"
-          ],
-          "LDraw": [
-            "3001"
-          ],
-          "LEGO": [
-            "15589",
-            "3001",
-            "54534",
-            "72841"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 19,
         "name": "Tan",
         "rgb": "E4CD9E",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              2
-            ],
-            "ext_descrs": [
-              [
-                "Tan"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              89
-            ],
-            "ext_descrs": [
-              [
-                "Tan"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              5
-            ],
-            "ext_descrs": [
-              [
-                "Brick yellow",
-                "BRICK-YEL"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "tan"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              19
-            ],
-            "ext_descrs": [
-              [
-                "Tan"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -250,89 +146,13 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3001"
-          ],
-          "BrickOwl": [
-            "771344"
-          ],
-          "Brickset": [
-            "15589",
-            "3001",
-            "54534",
-            "72841"
-          ],
-          "LDraw": [
-            "3001"
-          ],
-          "LEGO": [
-            "15589",
-            "3001",
-            "54534",
-            "72841"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 288,
         "name": "Dark Green",
         "rgb": "184632",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              80
-            ],
-            "ext_descrs": [
-              [
-                "Dark Green"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              20
-            ],
-            "ext_descrs": [
-              [
-                "Dark Green"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              141
-            ],
-            "ext_descrs": [
-              [
-                "Earth Green",
-                "EARTH GREEN"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "dkgreen"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              288
-            ],
-            "ext_descrs": [
-              [
-                "Dark_Green"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -345,37 +165,13 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3001/brick-2-x-4/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300121.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3001"
-          ],
-          "BrickOwl": [
-            "771344"
-          ],
-          "Brickset": [
-            "15589",
-            "3001",
-            "54534",
-            "72841"
-          ],
-          "LDraw": [
-            "3001"
-          ],
-          "LEGO": [
-            "15589",
-            "3001",
-            "54534",
-            "72841"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -388,36 +184,13 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3003"
-          ],
-          "BrickOwl": [
-            "3003",
-            "939628"
-          ],
-          "Brickset": [
-            "15591",
-            "3003",
-            "62404"
-          ],
-          "LDraw": [
-            "3003"
-          ],
-          "LEGO": [
-            "15591",
-            "3003",
-            "62404"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -430,88 +203,13 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3003"
-          ],
-          "BrickOwl": [
-            "3003",
-            "939628"
-          ],
-          "Brickset": [
-            "15591",
-            "3003",
-            "62404"
-          ],
-          "LDraw": [
-            "3003"
-          ],
-          "LEGO": [
-            "15591",
-            "3003",
-            "62404"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 71,
         "name": "Light Bluish Gray",
         "rgb": "A0A5A9",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              86
-            ],
-            "ext_descrs": [
-              [
-                "Light Bluish Gray"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              64
-            ],
-            "ext_descrs": [
-              [
-                "Medium Stone Gray"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              194
-            ],
-            "ext_descrs": [
-              [
-                "Medium stone grey",
-                "MED. ST-GREY"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mdstone"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              71
-            ],
-            "ext_descrs": [
-              [
-                "Light_Bluish_Gray"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -524,88 +222,13 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3003/brick-2-x-2/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300301.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3003"
-          ],
-          "BrickOwl": [
-            "3003",
-            "939628"
-          ],
-          "Brickset": [
-            "15591",
-            "3003",
-            "62404"
-          ],
-          "LDraw": [
-            "3003"
-          ],
-          "LEGO": [
-            "15591",
-            "3003",
-            "62404"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 19,
         "name": "Tan",
         "rgb": "E4CD9E",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              2
-            ],
-            "ext_descrs": [
-              [
-                "Tan"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              89
-            ],
-            "ext_descrs": [
-              [
-                "Tan"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              5
-            ],
-            "ext_descrs": [
-              [
-                "Brick yellow",
-                "BRICK-YEL"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "tan"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              19
-            ],
-            "ext_descrs": [
-              [
-                "Tan"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -646,60 +269,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -712,82 +282,13 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/6223/brick-2-x-2-without-inside-ridges/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4144387.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3003"
-          ],
-          "BrickOwl": [
-            "6223"
-          ],
-          "Brickset": [
-            "35275",
-            "6223"
-          ],
-          "LEGO": [
-            "35275",
-            "6223"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 34,
         "name": "Trans-Green",
         "rgb": "84B68D",
-        "is_trans": true,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              20
-            ],
-            "ext_descrs": [
-              [
-                "Trans-Green"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              100
-            ],
-            "ext_descrs": [
-              [
-                "Transparent Green"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              48
-            ],
-            "ext_descrs": [
-              [
-                "Tr. Green",
-                "TR.GREEN"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "trgreen"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              34
-            ],
-            "ext_descrs": [
-              [
-                "Trans_Green"
-              ]
-            ]
-          }
-        }
+        "is_trans": true
       }
     },
     {
@@ -800,31 +301,13 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3003pr0035/brick-2-x-2-with-light-bluish-gray-and-black-minecraft-geometric-print/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6097032.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3003pb084"
-          ],
-          "BrickOwl": [
-            "83970"
-          ],
-          "Brickset": [
-            "19182"
-          ],
-          "LDraw": [
-            "3003px0"
-          ],
-          "LEGO": [
-            "19182"
-          ]
-        },
         "print_of": "3003"
       },
       "color": {
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -1134,7 +617,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
+        "is_trans": false
 
       }
     },
@@ -1174,60 +657,7 @@
         "id": 71,
         "name": "Light Bluish Gray",
         "rgb": "A0A5A9",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              86
-            ],
-            "ext_descrs": [
-              [
-                "Light Bluish Gray"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              64
-            ],
-            "ext_descrs": [
-              [
-                "Medium Stone Gray"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              194
-            ],
-            "ext_descrs": [
-              [
-                "Medium stone grey",
-                "MED. ST-GREY"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mdstone"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              71
-            ],
-            "ext_descrs": [
-              [
-                "Light_Bluish_Gray"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -1358,7 +788,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
+        "is_trans": false
 
       }
     },
@@ -1398,60 +828,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -1487,60 +864,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -1579,7 +903,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -1619,60 +943,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -1708,7 +979,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -1746,60 +1017,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -1835,60 +1053,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -1924,7 +1089,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
+        "is_trans": false
 
       }
     },
@@ -1961,7 +1126,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -2221,60 +1386,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -2802,7 +1914,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
+        "is_trans": false
 
       }
     },
@@ -3041,7 +2153,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -3084,60 +2196,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -3182,60 +2241,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -3273,60 +2279,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -3370,60 +2323,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -3463,7 +2363,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -3501,60 +2401,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -3656,31 +2503,13 @@
         "part_cat_id": 14,
         "part_url": "https://rebrickable.com/parts/3795/plate-2-x-6/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/379526.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3795"
-          ],
-          "BrickOwl": [
-            "735504"
-          ],
-          "Brickset": [
-            "3795"
-          ],
-          "LDraw": [
-            "3795"
-          ],
-          "LEGO": [
-            "3795"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -3716,8 +2545,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -3943,8 +2771,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -3980,8 +2807,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -4017,8 +2843,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -4063,8 +2888,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -4107,8 +2931,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -4150,8 +2973,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -4300,60 +3122,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -5123,60 +3892,7 @@
         "id": 84,
         "name": "Medium Nougat",
         "rgb": "AA7D55",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              150
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              74
-            ],
-            "ext_descrs": [
-              [
-                "Medium Dark Flesh"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              312
-            ],
-            "ext_descrs": [
-              [
-                "Medium Nougat",
-                "M. NOUGAT"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mddkflesh"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              84
-            ],
-            "ext_descrs": [
-              [
-                "Medium_Dark_Flesh"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -6098,7 +4814,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -6136,7 +4852,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -6174,8 +4890,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -6189,93 +4904,13 @@
         "part_cat_id": 9,
         "part_url": "https://rebrickable.com/parts/63868/plate-special-1-x-2-with-clip-horizontal-on-end/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4535739.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "63868"
-          ],
-          "BrickOwl": [
-            "537281"
-          ],
-          "Brickset": [
-            "42923",
-            "63868"
-          ],
-          "LDraw": [
-            "63868"
-          ],
-          "LEGO": [
-            "42923",
-            "63868"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 0,
         "name": "Black",
         "rgb": "05131D",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              11
-            ],
-            "ext_descrs": [
-              [
-                "Black"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              38
-            ],
-            "ext_descrs": [
-              [
-                "Black"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              26,
-              1012
-            ],
-            "ext_descrs": [
-              [
-                "Black",
-                "BLACK"
-              ],
-              [
-                "CONDUCT. BLACK"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "black"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              0,
-              256
-            ],
-            "ext_descrs": [
-              [
-                "Black"
-              ],
-              [
-                "Rubber_Black"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -9180,7 +7815,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -9218,7 +7853,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -9263,7 +7898,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -14581,7 +13216,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -15527,7 +14162,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -16686,7 +15321,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -22836,7 +21471,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -22965,7 +21600,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
+        "is_trans": false
 
         
       }
@@ -25012,91 +23647,13 @@
         "part_cat_id": 32,
         "part_url": "https://rebrickable.com/parts/48729b/bar-1l-with-clip-cut-edges-and-one-side-hole/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4289538.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "48729b"
-          ],
-          "BrickOwl": [
-            "664516"
-          ],
-          "Brickset": [
-            "41005",
-            "48729",
-            "55529",
-            "86022",
-            "88428"
-          ],
-          "LDraw": [
-            "48729b"
-          ],
-          "LEGO": [
-            "41005",
-            "48729",
-            "55529",
-            "86022",
-            "88428"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 71,
         "name": "Light Bluish Gray",
         "rgb": "A0A5A9",
-        "is_trans": false,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              86
-            ],
-            "ext_descrs": [
-              [
-                "Light Bluish Gray"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              64
-            ],
-            "ext_descrs": [
-              [
-                "Medium Stone Gray"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              194
-            ],
-            "ext_descrs": [
-              [
-                "Medium stone grey",
-                "MED. ST-GREY"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "mdstone"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              71
-            ],
-            "ext_descrs": [
-              [
-                "Light_Bluish_Gray"
-              ]
-            ]
-          }
-        }
+        "is_trans": false
       }
     },
     {
@@ -25140,8 +23697,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -25630,8 +24186,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -25668,9 +24223,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -25683,27 +24236,6 @@
         "part_cat_id": 27,
         "part_url": "https://rebrickable.com/parts/61482/equipment-handcuffs/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4518282.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "61482"
-          ],
-          "BrickOwl": [
-            "30606"
-          ],
-          "Brickset": [
-            "61482",
-            "91795",
-            "97927"
-          ],
-          "LDraw": [
-            "61482"
-          ],
-          "LEGO": [
-            "61482",
-            "91795",
-            "97927"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -32058,7 +30590,7 @@
         "name": "Brick 2 x 8",
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/3007/brick-2-x-8/",
-        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300701.jpg",,
+        "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/300701.jpg",
         "print_of": null
       },
       "color": {
@@ -42513,9 +41045,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -42528,93 +41058,13 @@
         "part_cat_id": 3,
         "part_url": "https://rebrickable.com/parts/54200/slope-30-1-x-1-x-23-cheese-slope/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4504382.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "54200"
-          ],
-          "BrickOwl": [
-            "158788"
-          ],
-          "Brickset": [
-            "18862",
-            "33847",
-            "35338",
-            "50746",
-            "54200",
-            "63290"
-          ],
-          "LDraw": [
-            "54200"
-          ],
-          "LEGO": [
-            "18862",
-            "33847",
-            "35338",
-            "50746",
-            "54200",
-            "63290"
-          ]
-        },
         "print_of": null
       },
       "color": {
         "id": 40,
         "name": "Trans-Black",
         "rgb": "635F52",
-        "is_trans": true,
-        "external_ids": {
-          "BrickLink": {
-            "ext_ids": [
-              13
-            ],
-            "ext_descrs": [
-              [
-                "Trans-Black"
-              ]
-            ]
-          },
-          "BrickOwl": {
-            "ext_ids": [
-              95
-            ],
-            "ext_descrs": [
-              [
-                "Transparent Black"
-              ]
-            ]
-          },
-          "LEGO": {
-            "ext_ids": [
-              111
-            ],
-            "ext_descrs": [
-              [
-                "Tr. Brown",
-                "TR.BROWN"
-              ]
-            ]
-          },
-          "Peeron": {
-            "ext_ids": [
-              null
-            ],
-            "ext_descrs": [
-              [
-                "smoke"
-              ]
-            ]
-          },
-          "LDraw": {
-            "ext_ids": [
-              40
-            ],
-            "ext_descrs": [
-              [
-                "Trans_Black"
-              ]
-            ]
-          }
-        }
+        "is_trans": true
       }
     },
     {
@@ -43712,22 +42162,6 @@
         "part_cat_id": 11,
         "part_url": "https://rebrickable.com/parts/6223/brick-2-x-2-without-inside-ridges/",
         "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/4144387.jpg",
-        "external_ids": {
-          "BrickLink": [
-            "3003"
-          ],
-          "BrickOwl": [
-            "6223"
-          ],
-          "Brickset": [
-            "35275",
-            "6223"
-          ],
-          "LEGO": [
-            "35275",
-            "6223"
-          ]
-        },
         "print_of": null
       },
       "color": {
@@ -44003,8 +42437,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -46905,9 +45338,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -53649,8 +52080,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -53687,8 +52117,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -53725,9 +52154,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -53763,9 +52190,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -53803,8 +52228,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -53844,8 +52268,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -53882,9 +52305,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -53920,9 +52341,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -53958,9 +52377,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -54088,9 +52505,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -54216,9 +52631,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -54256,8 +52669,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -54296,8 +52708,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -56449,8 +54860,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -56489,8 +54899,7 @@
         "id": 70,
         "name": "Reddish Brown",
         "rgb": "582A12",
-        "is_trans": false,
-
+        "is_trans": false
       }
     },
     {
@@ -59391,9 +57800,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -60221,9 +58628,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
-        
+        "is_trans": false
       }
     },
     {
@@ -77878,8 +76283,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
@@ -78105,8 +76509,7 @@
         "id": 72,
         "name": "Dark Bluish Gray",
         "rgb": "6C6E68",
-        "is_trans": false,
-
+        "is_trans": false
         
       }
     },
