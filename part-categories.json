@@ -1,0 +1,337 @@
+{
+  "count": 66,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "name": "Baseplates",
+      "part_count": 238
+    },
+    {
+      "id": 3,
+      "name": "Bricks Sloped",
+      "part_count": 533
+    },
+    {
+      "id": 4,
+      "name": "Duplo, Quatro and Primo",
+      "part_count": 4333
+    },
+    {
+      "id": 5,
+      "name": "Bricks Special",
+      "part_count": 169
+    },
+    {
+      "id": 6,
+      "name": "Bricks Wedged",
+      "part_count": 263
+    },
+    {
+      "id": 7,
+      "name": "Containers",
+      "part_count": 180
+    },
+    {
+      "id": 8,
+      "name": "Technic Bricks",
+      "part_count": 28
+    },
+    {
+      "id": 9,
+      "name": "Plates Special",
+      "part_count": 362
+    },
+    {
+      "id": 11,
+      "name": "Bricks",
+      "part_count": 1432
+    },
+    {
+      "id": 12,
+      "name": "Technic Connectors",
+      "part_count": 109
+    },
+    {
+      "id": 13,
+      "name": "Minifigs",
+      "part_count": 465
+    },
+    {
+      "id": 14,
+      "name": "Plates",
+      "part_count": 95
+    },
+    {
+      "id": 15,
+      "name": "Tiles Special",
+      "part_count": 377
+    },
+    {
+      "id": 16,
+      "name": "Windows and Doors",
+      "part_count": 402
+    },
+    {
+      "id": 17,
+      "name": "Non-LEGO",
+      "part_count": 3481
+    },
+    {
+      "id": 18,
+      "name": "Hinges, Arms and Turntables",
+      "part_count": 240
+    },
+    {
+      "id": 19,
+      "name": "Tiles",
+      "part_count": 2339
+    },
+    {
+      "id": 20,
+      "name": "Bricks Round and Cones",
+      "part_count": 402
+    },
+    {
+      "id": 21,
+      "name": "Plates Round Curved and Dishes",
+      "part_count": 271
+    },
+    {
+      "id": 22,
+      "name": "Pneumatics",
+      "part_count": 32
+    },
+    {
+      "id": 23,
+      "name": "Panels",
+      "part_count": 313
+    },
+    {
+      "id": 24,
+      "name": "Other",
+      "part_count": 104
+    },
+    {
+      "id": 25,
+      "name": "Technic Steering, Suspension and Engine",
+      "part_count": 103
+    },
+    {
+      "id": 26,
+      "name": "Technic Special",
+      "part_count": 199
+    },
+    {
+      "id": 27,
+      "name": "Minifig Accessories",
+      "part_count": 1551
+    },
+    {
+      "id": 28,
+      "name": "Plants and Animals",
+      "part_count": 1377
+    },
+    {
+      "id": 29,
+      "name": "Wheels and Tyres",
+      "part_count": 333
+    },
+    {
+      "id": 30,
+      "name": "Tubes and Hoses",
+      "part_count": 190
+    },
+    {
+      "id": 31,
+      "name": "String, Bands and Reels",
+      "part_count": 121
+    },
+    {
+      "id": 32,
+      "name": "Bars, Ladders and Fences",
+      "part_count": 122
+    },
+    {
+      "id": 33,
+      "name": "Rock",
+      "part_count": 47
+    },
+    {
+      "id": 34,
+      "name": "Supports, Girders and Cranes",
+      "part_count": 87
+    },
+    {
+      "id": 35,
+      "name": "Transportation - Sea and Air",
+      "part_count": 242
+    },
+    {
+      "id": 36,
+      "name": "Transportation - Land",
+      "part_count": 514
+    },
+    {
+      "id": 37,
+      "name": "Bricks Curved",
+      "part_count": 505
+    },
+    {
+      "id": 38,
+      "name": "Flags, Signs, Plastics and Cloth",
+      "part_count": 971
+    },
+    {
+      "id": 39,
+      "name": "Magnets and Holders",
+      "part_count": 38
+    },
+    {
+      "id": 40,
+      "name": "Technic Panels",
+      "part_count": 95
+    },
+    {
+      "id": 41,
+      "name": "Bionicle, Hero Factory and Constraction",
+      "part_count": 1414
+    },
+    {
+      "id": 42,
+      "name": "Belville, Scala and Fabuland",
+      "part_count": 691
+    },
+    {
+      "id": 43,
+      "name": "Znap",
+      "part_count": 22
+    },
+    {
+      "id": 44,
+      "name": "Mechanical",
+      "part_count": 26
+    },
+    {
+      "id": 45,
+      "name": "Power Functions, Mindstorms and Electric",
+      "part_count": 498
+    },
+    {
+      "id": 46,
+      "name": "Technic Axles",
+      "part_count": 27
+    },
+    {
+      "id": 47,
+      "name": "Windscreens and Fuselage",
+      "part_count": 376
+    },
+    {
+      "id": 48,
+      "name": "Clikits",
+      "part_count": 403
+    },
+    {
+      "id": 49,
+      "name": "Plates Angled",
+      "part_count": 72
+    },
+    {
+      "id": 50,
+      "name": "HO Scale",
+      "part_count": 100
+    },
+    {
+      "id": 51,
+      "name": "Technic Beams",
+      "part_count": 42
+    },
+    {
+      "id": 52,
+      "name": "Technic Gears",
+      "part_count": 83
+    },
+    {
+      "id": 53,
+      "name": "Technic Pins",
+      "part_count": 32
+    },
+    {
+      "id": 54,
+      "name": "Technic Bushes",
+      "part_count": 7
+    },
+    {
+      "id": 55,
+      "name": "Technic Beams Special",
+      "part_count": 30
+    },
+    {
+      "id": 56,
+      "name": "Tools",
+      "part_count": 21
+    },
+    {
+      "id": 57,
+      "name": "Non-Buildable Figures (Duplo, Fabuland, etc)",
+      "part_count": 1092
+    },
+    {
+      "id": 58,
+      "name": "Stickers",
+      "part_count": 3583
+    },
+    {
+      "id": 59,
+      "name": "Minifig Heads",
+      "part_count": 3965
+    },
+    {
+      "id": 60,
+      "name": "Minifig Upper Body",
+      "part_count": 5699
+    },
+    {
+      "id": 61,
+      "name": "Minifig Lower Body",
+      "part_count": 2236
+    },
+    {
+      "id": 62,
+      "name": "Minidoll Heads",
+      "part_count": 236
+    },
+    {
+      "id": 63,
+      "name": "Minidoll Upper Body",
+      "part_count": 454
+    },
+    {
+      "id": 64,
+      "name": "Minidoll Lower Body",
+      "part_count": 306
+    },
+    {
+      "id": 65,
+      "name": "Minifig Headwear",
+      "part_count": 1702
+    },
+    {
+      "id": 66,
+      "name": "Modulex",
+      "part_count": 1158
+    },
+    {
+      "id": 67,
+      "name": "Tiles Round and Curved",
+      "part_count": 778
+    },
+    {
+      "id": 68,
+      "name": "Projectiles / Launchers",
+      "part_count": 70
+    }
+  ]
+}
