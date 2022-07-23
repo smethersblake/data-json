@@ -1,8 +1,4 @@
-{
-  "count": 446,
-  "next": null,
-  "previous": null,
-  "results": [
+[
     {
       "id": 1,
       "parent_id": null,
@@ -2234,4 +2230,3 @@
       "name": "Series 23 Minifigures"
     }
   ]
-}

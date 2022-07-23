@@ -1,8 +1,4 @@
-{
-  "count": 656,
-  "next": null,
-  "previous": null,
-  "results": [
+[
     {
       "set_num": "10297-1",
       "name": "Boutique Hotel",
@@ -6564,4 +6560,3 @@
       "last_modified_dt": "2022-07-07T05:02:54.673492Z"
     }
   ]
-}
