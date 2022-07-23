@@ -1,8 +1,4 @@
-{
-  "count": 66,
-  "next": null,
-  "previous": null,
-  "results": [
+[
     {
       "id": 1,
       "name": "Baseplates",
@@ -334,4 +330,3 @@
       "part_count": 70
     }
   ]
-}
